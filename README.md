@@ -1,5 +1,6 @@
 # 🎓 Study Help
 
+An intelligent study planner that automatically generates personalized daily study schedules based on your quiz performance, mastery levels, and calendar availability. The system continuously adapts to help you focus on weak topics while respecting deadlines and real-world time constraints.
 
 Core Features
 
