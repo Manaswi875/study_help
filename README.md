@@ -1,4 +1,4 @@
-# 🎓 Adaptive Study Planner
+# 🎓 Study Help
 
 
 Core Features
